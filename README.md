@@ -1,4 +1,6 @@
-# imgui_related_docs
+# ImGui Related Documentations
+
+Manuals and documentation for Dear ImGui and related projects I maintain.
 
 ## Introduction to Immediate Mode GUI for Python Developers
 
@@ -7,7 +9,7 @@ If you are new to ImGui Bundle, and working with Python, here is a beginner-frie
 [Immediate Mode GUI with Python and Dear ImGui Bundle](https://github.com/pthom/imgui_bundle/blob/main/docs/docs_md/imgui_python_intro.md)
 
 
-## Manuals and documentation for Dear ImGui and related projects I maintain
+## Manuals
 
 ### Browsable versions
 
@@ -26,7 +28,7 @@ Those versions are suitable for LLMs, so that they can ingest the full documenta
 * [Litgen - PDF Manual](https://pthom.github.io/litgen/litgen_book/litgen_book.pdf)
 
   
-## Interactive manuals
+## Interactive Manuals and Demos
 
 * [ImGui Manual](https://pthom.github.io/imgui_manual_online/manual/imgui_manual.html): an interactive manual for Dear ImGui, with search engine and copy/paste code snippets.
 * [ImGui Bundle Demo](https://traineq.org/ImGuiBundle/emscripten/bin/demo_imgui_bundle.html): an interactive demo for ImGui Bundle, with copy/paste code snippets.
